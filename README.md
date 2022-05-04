@@ -12,4 +12,6 @@ _これをもっと強調_
 
 __同じくもっと強調__
 
+[会社リンク](https://www.genetec.co.jp/)
+
 first repository
