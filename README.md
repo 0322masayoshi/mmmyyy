@@ -14,6 +14,6 @@ __同じくもっと強調__
 
 [会社リンク](https://www.genetec.co.jp/)
 
-![サンプル画像](./https://github.com/0322masayoshi/mmmyyy/blob/main/line_67544924967043.jpg)
+![サンプル画像](./line_67544924967043.jpg)
 
 first repository
